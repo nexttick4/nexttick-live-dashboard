@@ -6,8 +6,8 @@ This is your live frontend for `/live-signals`, powered by Supabase + Tailwind +
 
 1. Add your Supabase keys to `.env.local`:
 ```
-NEXT_PUBLIC_SUPABASE_URL=your_url_here
-NEXT_PUBLIC_SUPABASE_ANON_KEY=your_key_here
+NEXT_PUBLIC_SUPABASE_URL=superbase: https://syxhyqgvtnkscrowukaq.supabase.co 
+NEXT_PUBLIC_SUPABASE_ANON_KEY=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InN5eGh5cWd2dG5rc2Nyb3d1a2FxIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NDY4MTQ2NzUsImV4cCI6MjA2MjM5MDY3NX0.8i_pzIAGrKfVL7woKgLVkm5W4AkYsxcoD9GiX3rC6QU
 ```
 
 2. Run locally:
